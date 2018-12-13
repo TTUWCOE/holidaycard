@@ -1381,3 +1381,25 @@ body {
     flex: auto!important;
   }
 }
+.cid-rc7JDVtLgo {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #c1c1c1, #ffffff);
+}
+.cid-rc7JDVtLgo .image-block {
+  margin: auto;
+}
+.cid-rc7JDVtLgo figcaption {
+  position: relative;
+}
+.cid-rc7JDVtLgo figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rc7JDVtLgo .image-block {
+    width: 100% !important;
+  }
+}
